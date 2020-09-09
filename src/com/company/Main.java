@@ -9,7 +9,7 @@ public class Main {
         System.out.println(a.getName());
         a.setEmail("rrrr@mail.ru");
         System.out.println(a.getEmail());
-        System.out.println(a.toString());
+        System.out.println(a);
     }
 
 }
